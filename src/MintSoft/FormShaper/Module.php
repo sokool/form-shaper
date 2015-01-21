@@ -1,5 +1,5 @@
 <?php
-namespace FormShaper;
+namespace MintSoft\FormShaper;
 
 use Zend\ModuleManager\Feature\ControllerPluginProviderInterface;
 use Zend\ModuleManager\Feature\FormElementProviderInterface;

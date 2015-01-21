@@ -6,9 +6,9 @@
  * Time: 13:25
  */
 
-namespace FormShaper\Factory;
+namespace MintSoft\FormShaper\Factory;
 
-use FormShaper\FormBakery;
+use MintSoft\FormShaper\FormBakery;
 use Zend\ServiceManager\FactoryInterface;
 use Zend\ServiceManager\ServiceLocatorInterface;
 

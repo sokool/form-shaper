@@ -6,7 +6,7 @@
  * Time: 12:58
  */
 
-namespace FormShaper\Form\Element;
+namespace MintSoft\FormShaper\Form\Element;
 
 use Zend\Form\Element\Hidden;
 

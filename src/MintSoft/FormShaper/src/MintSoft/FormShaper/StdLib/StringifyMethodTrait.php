@@ -1,5 +1,5 @@
 <?php
-namespace FormShaper\StdLib;
+namespace MintSoft\FormShaper\StdLib;
 
 /**
  * Created by PhpStorm.

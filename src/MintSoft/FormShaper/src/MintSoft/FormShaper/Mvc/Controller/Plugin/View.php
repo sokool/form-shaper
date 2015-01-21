@@ -1,8 +1,8 @@
 <?php
 
-namespace FormShaper\Mvc\Controller\Plugin;
+namespace MintSoft\FormShaper\Mvc\Controller\Plugin;
 
-use FormShaper\StdLib\StringifyMethodTrait;
+use MintSoft\FormShaper\StdLib\StringifyMethodTrait;
 use Zend\Mvc\Controller\Plugin\AbstractPlugin;
 use Zend\View\Model\JsonModel;
 use Zend\View\Model\ViewModel;

@@ -6,10 +6,9 @@
  * Time: 13:23
  */
 
-namespace FormShaper\Form\Element\Select2;
+namespace MintSoft\FormShaper\Form\Element\Select2;
 
-use FormShaper\Form\Element\Select2\Element as Select2Element;
-use Nette\Diagnostics\Debugger;
+use MintSoft\FormShaper\Form\Element\Select2 as Select2Element;
 use Zend\ServiceManager\ServiceLocatorInterface;
 
 class Tag extends Select2Element

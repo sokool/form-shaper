@@ -1,8 +1,8 @@
 <?php
 
-namespace FormShaper\Mvc\Controller\Plugin;
+namespace MintSoft\FormShaper\Mvc\Controller\Plugin;
 
-use FormShaper\StdLib\StringifyMethodTrait;
+use MintSoft\FormShaper\StdLib\StringifyMethodTrait;
 use Zend\Form\Factory;
 use Zend\Form\Form as ZendForm;
 use Zend\Mvc\Controller\Plugin\AbstractPlugin;

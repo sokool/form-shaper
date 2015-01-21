@@ -6,14 +6,14 @@
  * Time: 15:24
  */
 
-namespace FormShaper\Mvc\Controller\Plugin;
+namespace MintSoft\FormShaper\Mvc\Controller\Plugin;
 
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Query as DoctrineQuery;
 use Doctrine\ORM\Tools\Pagination\Paginator as DoctrinePaginator;
 use DoctrineModule\Stdlib\Hydrator\DoctrineObject as DoctrineHydrator;
 use DoctrineORMModule\Paginator\Adapter\DoctrinePaginator as DoctrinePaginationAdapter;
-use FormShaper\StdLib\StringifyMethodTrait;
+use MintSoft\FormShaper\StdLib\StringifyMethodTrait;
 use Zend\Mvc\Controller\Plugin\AbstractPlugin;
 use Zend\Paginator\Paginator as ZendPaginator;
 

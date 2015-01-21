@@ -6,9 +6,9 @@
  * Time: 16:57
  */
 
-namespace FormShaper\Mvc\Controller\Plugin;
+namespace MintSoft\FormShaper\Mvc\Controller\Plugin;
 
-use FormShaper\StdLib\StringifyMethodTrait;
+use MintSoft\FormShaper\StdLib\StringifyMethodTrait;
 use Zend\Mvc\Controller\Plugin\Params as ParamsPlugin;
 
 class Params extends ParamsPlugin

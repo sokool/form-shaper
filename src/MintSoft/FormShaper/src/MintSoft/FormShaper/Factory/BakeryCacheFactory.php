@@ -6,7 +6,7 @@
  * Time: 13:59
  */
 
-namespace FormShaper\Factory;
+namespace MintSoft\FormShaper\Factory;
 
 use Zend\Cache\StorageFactory;
 use Zend\ServiceManager\FactoryInterface;

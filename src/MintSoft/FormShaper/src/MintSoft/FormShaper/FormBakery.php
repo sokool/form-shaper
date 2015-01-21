@@ -1,5 +1,5 @@
 <?php
-namespace FormShaper;
+namespace MintSoft\FormShaper;
 
 use Zend\Cache\Storage\Adapter\AbstractAdapter as CacheStorageAdapter;
 use Zend\Form\Annotation\AnnotationBuilder as FormAnnotationBuilder;

@@ -6,10 +6,10 @@
  * Time: 14:00
  */
 
-namespace FormShaper\Form\Element\Doctrine;
+namespace MintSoft\FormShaper\Form\Element\Doctrine;
 
 use DoctrineModule\Form\Element\Proxy;
-use FormShaper\Form\Element\Select2 as Select2Element;
+use MintSoft\FormShaper\Form\Element\Select2 as Select2Element;
 use Zend\InputFilter\InputProviderInterface;
 
 class Select2 extends Select2Element implements InputProviderInterface

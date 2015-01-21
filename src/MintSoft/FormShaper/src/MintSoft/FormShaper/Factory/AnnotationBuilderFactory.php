@@ -6,7 +6,7 @@
  * Time: 13:29
  */
 
-namespace FormShaper\Factory;
+namespace MintSoft\FormShaper\Factory;
 
 use Zend\Filter\FilterChain;
 use Zend\Form\Annotation\AnnotationBuilder;
