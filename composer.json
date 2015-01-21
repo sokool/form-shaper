@@ -1,17 +1,17 @@
 {
-    "name": "mint-soft/authorize",
-    "description": "Zend Framework 2 module for ",
+    "name": "mint-soft/form-shaper",
+    "description": "Zend Framework 2 module improves various operations on forms, such baking domain model, entities into forms + validation in one line call",
     "type": "library",
     "license": "MIT",
     "keywords": [
-        "rbac",
-        "acl",
-        "authorize",
-        "access",
-        "role",
-        "permission"
+        "forms",
+        "model",
+        "entity",
+        "bake",
+        "validation",
+        "helper"
     ],
-    "homepage": "https://github.com/sokool/authorize",
+    "homepage": "https://github.com/sokool/form-shaper",
     "require": {
         "php": ">=5.4",
         "zendframework/zend-modulemanager": ">= 2.3",
@@ -31,8 +31,8 @@
     },
     "autoload": {
         "psr-0": {
-            "MintSoft\\Authorize": "src/",
-            "AuthorizeTest": "tests/"
+            "MintSoft\\FormShaper": "src/",
+            "FormShaperTest": "tests/"
         }
     }
 }
