@@ -1,0 +1,38 @@
+{
+    "name": "mint-soft/authorize",
+    "description": "Zend Framework 2 module for ",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "rbac",
+        "acl",
+        "authorize",
+        "access",
+        "role",
+        "permission"
+    ],
+    "homepage": "https://github.com/sokool/authorize",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zend-modulemanager": ">= 2.3",
+        "zendframework/zend-mvc": ">= 2.3",
+        "zendframework/zend-http": ">= 2.3",
+        "zendframework/zend-form": ">= 2.3",
+        "zendframework/zend-code": ">= 2.3",
+        "zendframework/zend-view": ">= 2.3",
+        "zendframework/zend-test": ">= 2.3",
+        "zendframework/zend-config": ">= 2.3",
+        "zendframework/zend-serializer": ">= 2.3",
+        "zendframework/zend-log": ">= 2.3",
+        "zendframework/zend-authentication": ">= 2.3",
+        "zendframework/zend-permissions-rbac": ">= 2.3",
+        "zendframework/zend-cache": ">= 2.3",
+        "doctrine/annotations": ">=1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "MintSoft\\Authorize": "src/",
+            "AuthorizeTest": "tests/"
+        }
+    }
+}
