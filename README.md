@@ -7,4 +7,4 @@ Installation of MintSoft/FormShaper uses composer. For composer documentation, p
 php composer.phar require mint-soft/form-shaper:dev-master
 ```
 
-Then add `MintSoft\Authorize` to your `config/application.config.php`
+Then add `MintSoft\FormShaper` to your `config/application.config.php`
